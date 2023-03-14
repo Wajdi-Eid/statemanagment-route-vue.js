@@ -1,0 +1,41 @@
+.row {
+    margin-left: 50px;
+}
+body{
+   background-color: white;
+}
+img{
+    height: 250px;
+}
+.navbar-brand{
+    font-family: fantasy;
+    margin-left: 550px;
+}
+.container-fluid{
+    background-color: lightgray;
+}
+
+.form-control{
+    width: 50%;
+  
+}
+.roww{
+    margin-left: 430px;
+}
+.container{
+    text-align: center;
+  
+    background-color: lightgray;
+    padding: 20px;
+    
+}
+.createcardd{
+    font-family: fantasy;
+    font-size: medium;
+    margin-left:120px ;
+    margin-top: 50px ;
+}
+.img-fluid{
+    width: 100%;
+    height: 700px;
+}
